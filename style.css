@@ -2,9 +2,7 @@
     width: 1000px;
     height: 1000px;
 }
-.rot{
-    transform: rotate(180deg);
-}
+
 .size {
     height: 100px;
     width: 100px;
